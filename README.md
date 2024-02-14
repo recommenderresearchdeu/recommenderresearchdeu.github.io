@@ -1,1 +1,1 @@
-Das ist eine kleine Webseite für meine Masterarbeitsprojekt.
+Das ist eine kleine Webseite für mein Masterarbeitsprojekt.
